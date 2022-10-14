@@ -1,4 +1,5 @@
-[
+{
+"items": [
   {
     "id": 1,
     "imageUrl": "https://api.gambit-app.ru/uploads/products/ut5_Bw4NIVrotsIS-jztb0UmAZ0vmpM_.png",
@@ -49,3 +50,4 @@
     "quantity": 345
   }
 ]
+}
