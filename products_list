@@ -1,51 +1,51 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "imageUrl": "https://api.gambit-app.ru/uploads/products/ut5_Bw4NIVrotsIS-jztb0UmAZ0vmpM_.png",
     "name": "Пицца пепперони",
     "description": "Пикантная пепперони, увеличенная порция моцареллы, фирменный томатный соус",
-    "quantity": "419"
+    "quantity": 419
   },
   {
-    "id": "2",
+    "id": 2,
     "imageUrl": "https://api.gambit-app.ru/uploads/products/v56N1LMjFgDe3TEBGyTlUXKZbtNkYwNd.png",
     "name": "Пицца Жульен",
     "description": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
-    "quantity": "345"
+    "quantity": 345
   },
   {
-    "id": "3",
+    "id": 3,
     "imageUrl": "https://api.gambit-app.ru/uploads/products/ut5_Bw4NIVrotsIS-jztb0UmAZ0vmpM_.png",
     "name": "Ветчина и грибы",
     "description": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
-    "quantity": "369"
+    "quantity": 369
   },
   {
-    "id": "4",
+    "id": 4,
     "imageUrl": "https://api.gambit-app.ru/uploads/products/2hAqtO5yMLjml_CT0QIOagt4B-eyzDW4.png",
     "name": "Ветчина и грибы",
     "description": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
-    "quantity": "345"
+    "quantity": 345
   },
   {
-    "id": "5",
+    "id": 5,
     "imageUrl": "https://api.gambit-app.ru/uploads/products/2hAqtO5yMLjml_CT0QIOagt4B-eyzDW4.png",
     "name": "Ветчина и грибы",
     "description": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
-    "quantity": "345"
+    "quantity": 345
   },
   {
-    "id": "6",
+    "id": 6,
     "imageUrl": "https://api.gambit-app.ru/uploads/products/Uv2Q71uIJ1BRANy0BH-gzjdQeQD8AFJ7.png",
     "name": "Ветчина и грибы",
     "description": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
-    "quantity": "345"
+    "quantity": 345
   },
   {
-    "id": "7",
+    "id": 7,
     "imageUrl": "https://api.gambit-app.ru/uploads/products/2hAqtO5yMLjml_CT0QIOagt4B-eyzDW4.png",
     "name": "Ветчина и грибы",
     "description": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
-    "quantity": "345"
+    "quantity": 345
   }
 ]
